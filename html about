@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>About</title>
+</head>
+<body>
+
+<body>
+
+    <header>
+        <nav>
+          <ul>
+            <li> <a href="./about.html"> About </a></li> <li> Choose Your Sanctuary </li> <li> Refer to a friend </li> <li> Contact </li> <li class="booking">Book Now</li>
+          </ul>
+        </nav>
+    </header> 
+
+<h1>About Eagerwork</h1>
+<img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/htmlcss1-img_brown-bear-2.jpeg">
+
+  <!-- A section that describes about Eagerwork -->
+
+  <p> Build Develop Empower
+
+Empower your vision, business idea and personal project with us<br> 
+either if you are an entrepreneur, an enthusiast or an aspiring start-up
+
+Eagerwork is an excellent choice to accommodate your passion. Our mission strives to deliver "enjoyable" experience. Cordially providing an excellent service as well as cozy and inspiring environment to live and aspire.
+
+ <br /> <br />
+
+Aspire Live and Share your passion!<br /> <br />
+  <strong>-Eagerwork-<strong>
+
+  </p>
+</body>
+
+<footer>
+
+</html>
+
+
